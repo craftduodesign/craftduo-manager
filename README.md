@@ -1,2 +1,2 @@
-# proyect_events
+# craftduo-manager
 Gestión de datos y estadísticas
